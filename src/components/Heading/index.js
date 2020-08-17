@@ -1,12 +1,13 @@
 import React from "react";
+import "./style.css";
 
 const Heading = props => {
     return (
         // <h2>NavBar</h2>
-        <div class="jumbotron jumbotron-fluid">
+        <div className="jumbotron jumbotron-fluid">
             <div class="container">
                 <h1 class="display-4">Employee Directory</h1>
-                <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                <p class="lead">Click on carrots to filter by heading or use the search box to narrow your results.</p>
             </div>
         </div>
     )
