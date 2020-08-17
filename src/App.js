@@ -1,15 +1,15 @@
 import React from 'react';
-import NavBar from "./components/NavBar";
-import EmployeeSearch from "./components/EmployeeSearch";
-import EmployeeCardinfo from "./components/EmployeeCardinfo";
+import Heading from "./components/Heading/index";
+import EmployeeSearch from "./components/EmployeeSearch/index";
+import EmployeeRow from "./components/EmployeeRow/index";
 
 function App() {
   return (
     <div className="App">
 
-      <NavBar />
+      <Heading />
       <EmployeeSearch />
-      <EmployeeCardinfo />
+      <EmployeeRow />
       <h1> TEST APP </h1>
     </div>
   );

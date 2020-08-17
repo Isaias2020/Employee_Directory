@@ -1,6 +1,6 @@
 import React from "react";
 
-const NavBar = props => {
+const Heading = props => {
     return (
         // <h2>NavBar</h2>
         <div class="jumbotron jumbotron-fluid">
@@ -12,4 +12,4 @@ const NavBar = props => {
     )
 };
 
-export default NavBar;
+export default Heading;
