@@ -1,7 +1,7 @@
 import React from 'react';
-import Heading from "./components/Heading/index";
-import EmployeeSearch from "./components/EmployeeSearch/index";
-import EmployeeRow from "./components/EmployeeRow/index";
+import Heading from "./components/Heading";
+import EmployeeSearch from "./components/EmployeeSearch";
+import EmployeeRow from "./components/EmployeeRow";
 
 function App() {
   return (
@@ -10,7 +10,6 @@ function App() {
       <Heading />
       <EmployeeSearch />
       <EmployeeRow />
-      <h1> TEST APP </h1>
     </div>
   );
 }

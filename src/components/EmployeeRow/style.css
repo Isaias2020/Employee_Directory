@@ -1,0 +1,14 @@
+.EmployeeRow {
+    background-color: gray;
+    align-items: center;
+}
+
+.EmployeeRow img {
+    max-height: 12rem;
+    max-width: 12rem;
+}
+
+.EmployeeRow td {
+    padding: 1rem;
+    font-size: 1rem;
+}

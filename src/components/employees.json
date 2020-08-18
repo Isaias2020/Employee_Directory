@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "photo": "./Images/elijah-hiett.jpg",
+        "name": "Elijah Hiett",
+        "number": "214-222-3333",
+        "email": "elijahhiett@coding.com",
+        "dob": "04/25/1992"
+    }
+]

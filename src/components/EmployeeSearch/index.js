@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-// import { SearchBar } from "../styles"
 
 const EmployeeSearch = props => {
     return (
@@ -9,7 +8,7 @@ const EmployeeSearch = props => {
                 placeholder="search for employee"
             />
         </form>
-        // <h2>EmployeeSearch</h2>
+
     )
 };
 
