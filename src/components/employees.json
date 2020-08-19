@@ -6,5 +6,157 @@
         "number": "214-222-3333",
         "email": "elijahhiett@coding.com",
         "dob": "04/25/1992"
+    },
+    {
+        "id": 2,
+        "photo": "./Images/alex-bortolato.jpg",
+        "name": "Alex Bortolato",
+        "number": "214-111-4444",
+        "email": "alexbortolato@coding.com",
+        "dob": "04/26/1993"
+    },
+    {
+        "id": 3,
+        "photo": "./Images/alexis-chloe.jpg",
+        "name": "Alexis Chloe",
+        "number": "817-212-4545",
+        "email": "alexischloe@coding.com",
+        "dob": "01/01/1990"
+    },
+    {
+        "id": 4,
+        "photo": "./Images/antonio-scant.jpg",
+        "name": "Antonio Scant",
+        "number": "817-214-8888",
+        "email": "antonioscant@coding.com",
+        "dob": "01/15/1990"
+    },
+    {
+        "id": 5,
+        "photo": "./Images/caleb-lucas.jpg",
+        "name": "Caleb Lucas",
+        "number": "910-817-1111",
+        "email": "caleblucas@coding.com",
+        "dob": "05/15/1993"
+    },
+    {
+        "id": 6,
+        "photo": "./Images/cristian-newman.jpg",
+        "name": "Cristian Newman",
+        "number": "711-265-9193",
+        "email": "cristiannewman@coding.com",
+        "dob": "05/05/1990"
+    },
+    {
+        "id": 7,
+        "photo": "./Images/diya-dunne.jpg",
+        "name": "Diya Dunne",
+        "number": "675-844-7400",
+        "email": "diyadunne@coding.com",
+        "dob": "12/12/1995"
+    },
+    {
+        "id": 8,
+        "photo": "./Images/emerson-mathew.jpg",
+        "name": "Emerson Mathew",
+        "number": "266-855-0710",
+        "email": "emersonmathew@coding.com",
+        "dob": "02/05/1994"
+    },
+    {
+        "id": 9,
+        "photo": "./Images/james-timothy.jpg",
+        "name": "James Timothy",
+        "number": "514-531-8471",
+        "email": "jamestimothy@coding.com",
+        "dob": "03/03/1990"
+    },
+    {
+        "id": 10,
+        "photo": "./Images/jesse-ramirez.jpg",
+        "name": "Jesse Ramirez",
+        "number": "966-291-5045",
+        "email": "jesseramirez@coding.com",
+        "dob": "10/20/1991"
+    },
+    {
+        "id": 11,
+        "photo": "./Images/john-doe.jpg",
+        "name": "John Doe",
+        "number": "519-978-4733",
+        "email": "johndoe@coding.com",
+        "dob": "11/25/1989"
+    },
+    {
+        "id": 12,
+        "photo": "./Images/jon-grogan.jpg",
+        "name": "Jon Grogan",
+        "number": "995-565-4039",
+        "email": "jongrogan@coding.com",
+        "dob": "9/14/1992"
+    },
+    {
+        "id": 13,
+        "photo": "./Images/julian-ferrell.jpg",
+        "name": "Julian Ferrell",
+        "number": "620-454-1799",
+        "email": "julianferrell@coding.com",
+        "dob": "02/13/1992"
+    },
+    {
+        "id": 14,
+        "photo": "./Images/lylah-montoya.jpg",
+        "name": "Lylah Montoya",
+        "number": "579-291-7458",
+        "email": "lylahmontoya@coding.com",
+        "dob": "06/20/1993"
+    },
+    {
+        "id": 15,
+        "photo": "./Images/mila-rose.jpg",
+        "name": "Milah Rose",
+        "number": "538-390-6608",
+        "email": "milahrose@coding.com",
+        "dob": "08/08/1995"
+    },
+    {
+        "id": 16,
+        "photo": "./Images/milo-farley.jpg",
+        "name": "Milo Farley",
+        "number": "708-686-1058",
+        "email": "milofarley@coding.com",
+        "dob": "07/04/1993"
+    },
+    {
+        "id": 17,
+        "photo": "./Images/monica-dahiya.jpg",
+        "name": "Monica Dahiya",
+        "number": "645-898-3471",
+        "email": "monicadahiya@coding.com",
+        "dob": "08/19/1995"
+    },
+    {
+        "id": 18,
+        "photo": "./Images/prijun-koirala.jpg",
+        "name": "Prijun Koirala",
+        "number": "330-729-6606",
+        "email": "prijunkoirala@coding.com",
+        "dob": "01/23/1991"
+    },
+    {
+        "id": 19,
+        "photo": "./Images/reid-valenzuela.jpg",
+        "name": "Reid Valenzuela",
+        "number": "286-333-2926",
+        "email": "reidvalenzuela@coding.com",
+        "dob": "02/05/1992"
+    },
+    {
+        "id": 20,
+        "photo": "./Images/simon-marsault.jpg",
+        "name": "Simon Marsault",
+        "number": "698-413-2200",
+        "email": "simonmarsault@coding.com",
+        "dob": "07/29/1993"
     }
 ]
