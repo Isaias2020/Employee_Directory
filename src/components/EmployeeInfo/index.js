@@ -87,7 +87,7 @@ class EmployeeInfo extends Component {
                     <tbody>
                         {filteredData.map(employee => (
                             <EmployeeRow
-                                employeeData={this.state.employeesInfo}
+                                employeeData={this.state.employeeData}
                                 sortBy={this.sortBy}
                                 id={employee.id}
                                 key={employee.id}
