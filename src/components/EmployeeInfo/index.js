@@ -12,9 +12,9 @@ class EmployeeInfo extends Component {
         this.state = {
             employeeData,
             direction: {
-                name: "",
-                number: "",
-                email: ""
+                name: "Asc",
+                number: "Asc",
+                email: "Asc"
             },
             search: ""
         }
@@ -26,12 +26,12 @@ class EmployeeInfo extends Component {
         console.log(this.state.direction);
         this.setState({
             employeeData: this.state.employeeData.sort((a, b) =>
-                (this.state.direction[key] === ""
+                (this.state.direction[key] === "Asc"
                     ? a[key].localeCompare(b[key]) : b[key].localeCompare(a[key])
                 )),
             direction: {
                 ...this.state.direction,
-                [key]: this.state.direction[key] === "" ? "" : ""
+                [key]: this.state.direction[key] === "Asc" ? "Desc" : "Asc"
             }
         });
     };
