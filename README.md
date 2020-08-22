@@ -12,11 +12,17 @@ This application is an Employee Directory using React.  The user will be able to
 
 ## Table of Contents
 
+* [Design](#Design)
+
 * [UserStory](#UserStory)
 
 * [License](#License)
 
 * [Questions](#Questions)
+
+## Design 
+
+![Screenshot of working application](/public/assets/ScreenShot.png)
 
 ## UserStory
 
