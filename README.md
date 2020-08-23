@@ -8,7 +8,7 @@
 
 ## Description 
 
-This application is an Employee Directory using React.  The user will be able to search an employee by name and can filter/sort by clicking buttons in ascending or descending order.  Here is a link to the application. 
+This application is an Employee Directory using React.  The user will be able to search an employee by name and can filter/sort by clicking buttons in ascending or descending order.  Here is a link to a demo of the [application](https://drive.google.com/file/d/1_mmyQ40ZW7FFKW156_iyN1mHHtJo1vSb/view?usp=sharing). 
 
 ## Table of Contents
 
